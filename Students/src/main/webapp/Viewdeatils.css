@@ -1,0 +1,35 @@
+@charset "UTF-8";
+*{
+	padding:0;
+	margin:0;
+	align-items: center;
+    justify-content: center;
+}
+body{
+	align-items: center;
+    justify-content: center;
+	display: flex;
+}
+.custom-button {
+    display: flex;
+    height: 50px;
+    width: 200px;
+    border: none;
+    outline: none;
+    color: #FFF;
+    border-radius: 5px;
+    background-color: #336157;
+    transition: all 0.3s linear;
+    cursor: pointer;
+    margin:20px 300px;
+}
+
+.custom-button:hover {
+  background-color: #45a049; 
+}
+h1 {
+    font-size:30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 250px 0px 0px 200px;
+
+}
