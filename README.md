@@ -1,0 +1,1 @@
+In the project, school students can fill in the details of their college joining purpose. Those details are stored in the college database. The purpose is that students are not directly going to visit the college and fill out the details. Just visit the college website and enter the details.
